@@ -13,6 +13,6 @@ Please write a function that takes an input the list of agents with their data, 
 
 study the program care full and its self explainable 
 
-thak you 
+thank you 
 V.GokulRaaj
 gk14.9.1999@gmail.com
