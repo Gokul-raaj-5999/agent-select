@@ -1,0 +1,77 @@
+1.updat employe detail 
+2.enter issue 
+3.exit 
+ 2
+enter the role of employee: sale
+enter the duraton needed: 8
+enter the number of employe need: 1
+{'role': 'sale', 'duration': 8, 'need': 1} 
+
+avaliable employe: 5
+all avaliable
+random
+type the option bellow: all avaliable
+{'name': 'gokul', 'is_ava': 'yes', 'ava_since': 8, 'role': 'sale'} 
+
+{'name': 'gokul', 'is_ava': 'no', 'ava_since': 16, 'role': 'sale'} 
+
+0
+1.updat employe detail 
+2.enter issue 
+3.exit 
+ 2
+enter the role of employee: sale
+enter the duraton needed: 7
+enter the number of employe need: 1
+{'role': 'sale', 'duration': 7, 'need': 1} 
+
+avaliable employe: 4
+least busy
+type the option bellow: least busy
+{'name': 'ashwin', 'is_ava': 'yes', 'ava_since': 8, 'role': 'sale'} 
+
+{'name': 'ashwin', 'is_ava': 'no', 'ava_since': 15, 'role': 'sale'} 
+
+0
+1.updat employe detail 
+2.enter issue 
+3.exit 
+ 2
+enter the role of employee: sale
+enter the duraton needed: 6
+enter the number of employe need: 1
+{'role': 'sale', 'duration': 6, 'need': 1} 
+
+avaliable employe: 3
+least busy
+type the option bellow: least busy
+not avaliable ashwin
+not avaliable gokul
+1.updat employe detail 
+2.enter issue 
+3.exit 
+ 1
+enter employe name:gokul
+changing avaliblity...
+done
+1.updat employe detail 
+2.enter issue 
+3.exit 
+ 2
+enter the role of employee: sale
+enter the duraton needed: 6
+enter the number of employe need: 1
+{'role': 'sale', 'duration': 6, 'need': 1} 
+
+avaliable employe: 4
+least busy
+type the option bellow: least busy
+not avaliable ashwin
+{'name': 'gokul', 'is_ava': 'yes', 'ava_since': 16, 'role': 'sale'} 
+
+{'name': 'gokul', 'is_ava': 'no', 'ava_since': 22, 'role': 'sale'} 
+
+0
+1.updat employe detail 
+2.enter issue 
+3.exit 
